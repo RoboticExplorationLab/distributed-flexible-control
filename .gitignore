@@ -1,12 +1,2 @@
 # Auto-generated files
 *.asv
-Results/Plots/CentFinePointing/*
-Results/Plots/CentSlewSmoothed/*
-Results/Plots/CentSlewTO/*
-Results/Plots/DistFinePointing/*
-Results/Plots/DistSlewTO/*
-Results/Plots/DistSlewSmoothed/*
-Results/Plots/SlewTO/*
-Results/Plots/SlewSmoothed/*
-Results/Plots/FinePointing/*
-Results/SimData/*
